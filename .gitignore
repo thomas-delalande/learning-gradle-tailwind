@@ -4,3 +4,5 @@ build
 gradlew
 gradlew.bat
 gradle/wrapper
+.tailwindcss-binaries
+output.css
